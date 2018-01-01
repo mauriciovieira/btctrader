@@ -1,0 +1,32 @@
+{
+  "name": "btctrader",
+  "version": "0.1.0",
+  "description": "Bitcoin Trader",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv-safe": "^4.0.4",
+    "querystring": "^0.2.0",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {
+    "jest": "^22.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciovieira/btctrader.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "trader"
+  ],
+  "author": "Mauricio Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciovieira/btctrader/issues"
+  },
+  "homepage": "https://github.com/mauriciovieira/btctrader#readme"
+}
